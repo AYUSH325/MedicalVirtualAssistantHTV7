@@ -28,3 +28,5 @@ Working with Machine Learning and creating a full-stack App. We also learned how
 What's next for Medical Chatbot
 
 The first stage for the Medical Chatbot would be to run tests and validate that it works using different datasets. We also plan about adding more features in the front end such as authentication so that different users can register before using the feature. We can get inputs from professionals in healthcare to increase coverage and add more questions to give the correct prediction.
+
+Devpost Link: https://devpost.com/software/medical-chatbot-kptu9d
